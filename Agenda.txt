@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.example.manager.myapplication.Pedro"
+    android:orientation="vertical"
+    tools:showIn="@layout/activity_pedro">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="#121201"
+        android:gravity="center"
+        android:text="Agenda-16/03"
+        android:textColor="#FFE600"
+        android:textSize="20sp"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="0dp"
+        android:layout_margin="2sp"
+        />
+    
+
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#121201"
+        android:text="       Hora       |    Atividade      "
+        android:textColor="#FFE600"
+        android:textSize="30sp"
+        android:layout_margin="2sp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="7:30               |       Acordar    "
+        android:textColor="#FFE600"
+        android:textSize="30sp"
+        android:background="#121201"
+        android:layout_margin="2sp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="8:00               |       Café          "
+        android:textColor="#FFE600"
+        android:textSize="30sp"
+        android:background="#121201"
+        android:layout_margin="2sp"
+
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="8:30               |       Escovar         "
+        android:textColor="#FFE600"
+        android:textSize="30sp"
+        android:background="#121201"
+        android:layout_margin="2sp"
+
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="9:00               |       Assistir          "
+        android:textColor="#FFE600"
+        android:textSize="30sp"
+        android:background="#121201"
+        android:layout_margin="2sp"
+
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="9:30               |       Celular           "
+        android:textColor="#FFE600"
+        android:textSize="30sp"
+        android:background="#121201"
+        android:layout_margin="2sp"
+        
+
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="10:00             |       Jogar          "
+        android:textColor="#FFE600"
+        android:textSize="30sp"
+        android:background="#121201"
+        android:layout_margin="2sp"
+
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="10:30             |       Treinar         "
+        android:textColor="#FFE600"
+        android:textSize="30sp"
+        android:background="#121201"
+        android:layout_margin="2sp"
+
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="11:00             |       Estudar          "
+        android:textColor="#FFE600"
+        android:textSize="30sp"
+        android:background="#121201"
+        android:layout_margin="2sp"
+
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="105dp"
+        android:background="#121201"
+        android:text="11:30             |       Comer          "
+        android:textColor="#FFE600"
+        android:textSize="30sp"
+        android:layout_margin="2sp"
+        />
+    
+
+
+</LinearLayout>
